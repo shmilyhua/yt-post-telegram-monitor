@@ -2,7 +2,7 @@
 ## Acknowledgments
 
 * **Code Generation:** The core logic and boilerplate for this project were generated using Gemini. All AI-generated code was subsequently reviewed and tested.
-> **Note:** This repository is directly inspired by [NothingNaN/YoutubeCommunityScraper](https://github.com/NothingNaN/YoutubeCommunityScraper)) and [HoloArchivists/youtube-community-tab](https://github.com/HoloArchivists/youtube-community-tab). The modifications, refactoring, and new features introduced in this project were primarily implemented using Gemini.
+> **Note:** This repository is directly inspired by [NothingNaN/YoutubeCommunityScraper](https://github.com/NothingNaN/YoutubeCommunityScraper) and [HoloArchivists/youtube-community-tab](https://github.com/HoloArchivists/youtube-community-tab). The modifications, refactoring, and new features introduced in this project were primarily implemented using Gemini.
 # yt-post-telegram-monitor
 An asynchronous Python bot that monitors YouTube channel posts (formerly Community Tab) and pushes formatted updates directly to a Telegram chat.
 
