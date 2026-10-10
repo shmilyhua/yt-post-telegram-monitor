@@ -1,0 +1,12 @@
+{
+  "CHECK_INTERVAL": 180,
+  "TARGET_CHANNELS": [
+    "@NinomaeInanis",
+    "https://www.youtube.com/@3blue1brown"
+  ],
+  "COOKIE_FILE": "cookies.txt",
+  "TELEGRAM_TOKEN": "YOUR_TELEGRAM_BOT_TOKEN",
+  "TELEGRAM_CHAT_ID": "-100YOUR_CHAT_ID",
+  "SEED_FILE": "seen_posts.json",
+  "MAX_HISTORY": 1000
+}
